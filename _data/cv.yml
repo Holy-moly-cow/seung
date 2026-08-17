@@ -1,0 +1,106 @@
+cv:
+  name: Seunggyu Choi
+  label: Theoretical Astrophysicist
+  email: seunggyu.choi@example.com # TODO: 실제 이메일
+  location: Republic of Korea # TODO: 실제 근무지
+  image: ""
+  summary: "[TODO: 한두 문장 요약 - 예: A theoretical astrophysicist working on [연구주제], currently serving as a Science & Technology Officer]"
+
+  social_networks:
+    - network: GitHub
+      username: example # TODO: 실제 GitHub 아이디
+    - network: LinkedIn
+      username: example # TODO: 실제 LinkedIn 아이디
+
+  address:
+    street: "" # TODO
+    city: "" # TODO
+    region: "" # TODO
+    postalCode: "" # TODO
+    countryCode: KR
+
+  sections:
+    Education:
+      - institution: Gwangju Institute of Science and Technology (GIST)
+        location: Gwangju, South Korea
+        url: https://www.gist.ac.kr/
+        area: Physics
+        studyType: "[TODO: 학사/석사 등]"
+        start_date: "[TODO]"
+        end_date: "[TODO]"
+        score: ""
+        courses: "[TODO: 세부 전공/트랙, 예: Theoretical Astrophysics]"
+        highlights:
+          - "[TODO: 학위논문 제목 또는 주요 연구]"
+          - "[TODO: 수상/장학 등]"
+
+    Experience:
+      - company: "[TODO: 소속 부대/기관명]"
+        position: Science & Technology Officer (과학기술전문사관)
+        location: "[TODO: 근무 지역]"
+        start_date: "[TODO]"
+        end_date: present
+        summary: "[TODO: 복무 중 수행 업무 요약]"
+        highlights:
+          - "[TODO: 주요 업무/성과 1]"
+          - "[TODO: 주요 업무/성과 2]"
+
+    Awards:
+      - title: "[TODO: 수상명]"
+        authors:
+          - "[TODO: 수여 기관]"
+        date: "[TODO]"
+        awarder: "[TODO: 수여 기관]"
+        url: ""
+        summary: "[TODO: 수상 내용 설명]"
+
+    Publications:
+      - title: "[TODO: 논문 제목]"
+        authors:
+          - Seunggyu Choi
+        publisher: "[TODO: 저널/학회명]"
+        releaseDate: "[TODO: YYYY-MM-DD]"
+        url: ""
+        summary: "[TODO: 논문 요약. 실제 논문 목록은 _bibliography/papers.bib 에서 더 상세히 관리하고, 이 목록은 CV 요약용으로만 사용하세요.]"
+
+    Skills:
+      - name: Theoretical Astrophysics
+        level: "[TODO: 예 - Advanced]"
+        icon: fa-solid fa-meteor
+        keywords: "[TODO: 세부 키워드, 예: General Relativity, Stellar Structure, Cosmology, Compact Objects]"
+
+      - name: Computational Physics
+        level: "[TODO]"
+        icon: fa-solid fa-hashtag
+        keywords: "[TODO: 예 - Numerical Simulation, Python, Mathematica, C++]"
+
+    Languages:
+      - name: Korean
+        summary: "Native speaker"
+
+      - name: English
+        summary: "[TODO: 예 - Fluent]"
+
+    Interests:
+      - name: Astrophysics
+        icon: fa-solid fa-star
+        keywords: "[TODO: 관심 세부주제, 예: Black Hole Thermodynamics, Early Universe Cosmology]"
+
+    Certificates:
+      - name: "[TODO: 자격/이수증명]"
+        date: "[TODO]"
+        issuer: "[TODO]"
+        icon: fa-solid fa-award
+
+    Projects:
+      - name: "[TODO: 프로젝트명]"
+        summary: "[TODO: 프로젝트 설명]"
+        highlights:
+          - "[TODO]"
+        start_date: "[TODO]"
+        end_date: "[TODO]"
+
+    References:
+      - name: "[TODO: 지도교수/추천인 성함]"
+        icon: fa-solid fa-user-tie
+        reference: "[TODO: 추천사 - 본인이 직접 작성하지 말고 실제 추천인의 동의를 받아 작성하세요]"

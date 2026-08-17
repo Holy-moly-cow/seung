@@ -1,0 +1,11 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+cv_pdf: /assets/pdf/example_pdf.pdf # TODO: 실제 CV PDF로 교체 (assets/pdf/ 에 파일 넣기)
+email: seunggyu.choi@example.com # TODO: 실제 이메일로 교체
+# inspirehep_id: # TODO: 있다면 Inspire HEP author ID 입력 (없으면 이 줄은 주석 처리된 채로 두세요)
+rss_icon: true # comment this line to hide the RSS icon
+# scholar_userid: # TODO: Google Scholar 프로필 URL의 user= 값 입력
+# github_username: # TODO: GitHub 사용자명
+# linkedin_username: # TODO: LinkedIn 사용자명
+# x_username: # TODO: X(Twitter) 사용자명 (선택)
