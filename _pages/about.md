@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Theoretical Astrophysicist · [TODO: 소속 입력, 예 - Science & Technology Officer]
+subtitle: "Theoretical Astrophysicist · [TODO: 소속 입력, 예 - Science & Technology Officer]"
 
 profile:
   align: right
