@@ -6,7 +6,7 @@ subtitle: Theoretical Astrophysicist · [TODO: 소속 입력, 예 - Science & Te
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: tenga.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>[TODO: 근무 기관/부대명]</p>
@@ -28,6 +28,7 @@ latest_posts:
 ---
 
 [TODO: 아래는 예시 문구입니다. 실제 이력/연구 관심사로 교체하세요.]
+I like tenga! I like tenga! I like tenga! I like tenga! I like tenga! I like tenga! I like tenga! I like tenga! I like tenga! I like tenga! I like tenga! I like tenga! I like tenga! I like tenga! I like tenga! I like tenga! I like tenga! I like tenga! I like tenga! I like tenga! I like tenga! I like tenga! I like tenga! I like tenga! I like tenga! I like tenga! I like tenga! I like tenga! 
 
 I am a theoretical astrophysicist currently serving as a **과학기술전문사관 (Science & Technology Officer)**, applying my research background to technical duties while continuing to work on problems in theoretical astrophysics. I graduated from the **Gwangju Institute of Science and Technology (GIST)**, where I studied physics with a focus on [TODO: 세부 연구 분야, 예: compact object astrophysics / cosmology / gravitational theory].
 
